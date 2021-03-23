@@ -19,5 +19,5 @@ data:
           {
             "content": ":white_check_mark: - {{.context.myUsername}} synced their application successfully! \n:rocket: -  URL: {{call .repo.FullNameByRepoURL .app.spec.source.repoURL}}",
             "username": "ArgoCD",
-            "avatar_url": "https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.png"
+            "avatar_url": "https://discordapp.com/api/webhooks/819867341805322260/A1jE_iS6ibadvFS0V5NGy8zoWM3N0VxwTQR6zG3SoePB2XSPTcOyMy7Bd0k1zFFqOZC-"
           }
